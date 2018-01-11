@@ -1,0 +1,34 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+nav {
+	background-color: rgba(0,0,0,.7);
+	height: 60px;
+	color: white;
+}
+nav ul{
+	padding-top: 15px;
+}
+nav ul li{
+	display: inline;
+	padding: 10px;
+
+}
+
+.logo{
+	margin-right: 131px;
+    margin-left: 145px;
+}
+div .topo{
+	padding-top: 72px;
+}
+div .topo1{
+	background-color: rgb(26,3,99);
+	height: 151px;
+	width: 90px;
+}
+.row-botao{
+	padding-top: 40px; 
+}
