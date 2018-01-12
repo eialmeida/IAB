@@ -32,3 +32,23 @@ div .topo1{
 .row-botao{
 	padding-top: 40px; 
 }
+
+.sec1{
+	height: 100%;
+	padding-top: 100px;
+	background-color: rgb(3, 12, 61)
+
+}
+.branco{
+	color: white;
+}
+.hr1{
+	height: 10px;
+	width: 100%;
+	background-color: blue;
+
+}
+
+.teste5{
+	float: left;
+}
